@@ -1072,6 +1072,9 @@
     "example.qmd": {
       "checksum": "bfecaf8c60e98ef3e8186d53d704b8d1"
     },
+    "example/app.R": {
+      "checksum": "f2fb11dc47043e010e71656f12c461c0"
+    },
     "example_files/libs/bootstrap/bootstrap-icons.css": {
       "checksum": "2318f137d201fbf51601fa0faba6bef7"
     },
